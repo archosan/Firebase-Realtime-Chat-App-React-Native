@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "264187080038",
+    "project_id": "codetalks-6f584",
+    "storage_bucket": "codetalks-6f584.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264187080038:android:e1ba97b635e24606a3eca7",
+        "android_client_info": {
+          "package_name": "com.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264187080038-m152h3a4kn72pj6hq4pn79mkiuf9bpea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUT6DbyPWcJ_d3tDTOolL8Wi_BWFGSPOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264187080038-m152h3a4kn72pj6hq4pn79mkiuf9bpea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
